@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pay2u/static/css/main.6a8362b6.css",
+    "main.js": "/pay2u/static/js/main.0015338f.js",
+    "static/media/magnifier.svg": "/pay2u/static/media/magnifier.861118e60cf9cccd41fb.svg",
+    "index.html": "/pay2u/index.html",
+    "static/media/lt.svg": "/pay2u/static/media/lt.0749549bdebec624f9ec007dda88231b.svg",
+    "main.6a8362b6.css.map": "/pay2u/static/css/main.6a8362b6.css.map",
+    "main.0015338f.js.map": "/pay2u/static/js/main.0015338f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8362b6.css",
+    "static/js/main.0015338f.js"
+  ]
+}
