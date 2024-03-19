@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #4285E8;
+  height: 42px;
+  width: 375px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 4px;
+}
+
+.back-sign {
+  margin-left: 9px;
+  margin-right: 5px;
+}
+
+.back-word {
+  margin-right: 9px;
+}

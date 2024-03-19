@@ -1,7 +1,9 @@
+import "./search.css";
+
 const Search = () => {
   return (
-    <form className="search">
-      <input type="submit" value="" title="Поиск сервиса"></input>
+    <form>
+      <input className="search" type="text" placeholder="Поиск сервиса"></input>
     </form>
   );
 };
