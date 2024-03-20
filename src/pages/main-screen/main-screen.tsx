@@ -4,6 +4,7 @@ import "react-multi-carousel/lib/styles.css";
 import Header from "../../components/header/header";
 import Search from "../../components/search/search";
 import Bell from "../../components/bell/bell";
+import Card from "../../components/card/card";
 
 import pic1 from "../../images/pic1.png";
 import pic2 from "../../images/pic2.png";
@@ -43,6 +44,7 @@ const MainScreen = () => {
         <img src={pic2} alt="" className="pic"></img>
         <img src={pic3} alt="" className="pic"></img>
       </Carousel>
+      <Card />
     </>
   );
 };
