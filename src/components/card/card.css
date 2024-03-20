@@ -1,0 +1,29 @@
+.div-0 {
+  margin-top: 40px;
+  margin-left: 18px;
+}
+
+.container {
+  width: 375px;
+  display: flex;
+  justify-content: center;
+}
+
+.div-1 {
+  font-size: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 16px;
+}
+
+.div-2 {
+  margin-right: 8px;
+  width: 109px;
+  height: 124px;
+  background-color: SlateGray;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.div-3 {
+  padding-top: 12px;
+}
