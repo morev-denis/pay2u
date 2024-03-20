@@ -1,0 +1,14 @@
+.div {
+  display: flex;
+  margin-bottom: 11px;
+}
+
+.carousel {
+  width: 380px;
+}
+
+.pic {
+  margin-left: 18px;
+  margin-right: 4px;
+  display: flex;
+}

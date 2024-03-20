@@ -2,7 +2,7 @@ import "./search.css";
 
 const Search = () => {
   return (
-    <form>
+    <form className="form">
       <input className="search" type="text" placeholder="Поиск сервиса"></input>
     </form>
   );
