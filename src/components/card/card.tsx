@@ -11,17 +11,23 @@ const Card = () => {
       <div className="container">
         <div className="div-2">
           <div className="div-3">Кэшбек</div>
-          <div className="div-4">1050 ₽</div>
+          <div className="div-4">
+            <b>1050,62 ₽</b>
+          </div>
           <img src={cat1} alt="cat1" />
         </div>
         <div className="div-2">
           <div className="div-3">К оплате</div>
-          <div className="div-4">2050 ₽</div>
+          <div className="div-4">
+            <b>2050,00 ₽</b>
+          </div>
           <img src={cat2} alt="cat1" />
         </div>
         <div className="div-2">
           <div className="div-3">Расходы</div>
-          <div className="div-4">650 ₽</div>
+          <div className="div-4">
+            <b>650,00 ₽</b>
+          </div>
           <img src={cat3} alt="cat1" />
         </div>
       </div>
