@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/pay2u/static/css/main.6a8362b6.css",
-    "main.js": "/pay2u/static/js/main.0015338f.js",
-    "static/media/magnifier.svg": "/pay2u/static/media/magnifier.861118e60cf9cccd41fb.svg",
-    "index.html": "/pay2u/index.html",
-    "static/media/lt.svg": "/pay2u/static/media/lt.0749549bdebec624f9ec007dda88231b.svg",
-    "main.6a8362b6.css.map": "/pay2u/static/css/main.6a8362b6.css.map",
-    "main.0015338f.js.map": "/pay2u/static/js/main.0015338f.js.map"
+    "main.css": "./static/css/main.fb6b4c83.css",
+    "main.js": "./static/js/main.e3de39dc.js",
+    "static/media/pic2.png": "./static/media/pic2.78e552186b15d736756d.png",
+    "static/media/pic3.png": "./static/media/pic3.acd836412380f9a2c69c.png",
+    "static/media/pic1.png": "./static/media/pic1.901100a2a9ba24c0aa48.png",
+    "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "./static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "./static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/bell.svg": "./static/media/bell.bf4b3170e8f62157f4f2e0a20e7edc01.svg",
+    "static/media/magnifier.svg": "./static/media/magnifier.861118e60cf9cccd41fb.svg",
+    "index.html": "./index.html",
+    "static/media/lt.svg": "./static/media/lt.0749549bdebec624f9ec007dda88231b.svg",
+    "main.fb6b4c83.css.map": "./static/css/main.fb6b4c83.css.map",
+    "main.e3de39dc.js.map": "./static/js/main.e3de39dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a8362b6.css",
-    "static/js/main.0015338f.js"
+    "static/css/main.fb6b4c83.css",
+    "static/js/main.e3de39dc.js"
   ]
 }
