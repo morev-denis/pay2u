@@ -1,0 +1,55 @@
+.offer__wrap {
+  width: 375px;
+}
+
+.offer__wrap_2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 16px;
+  margin-right: 16px;
+  display: flex;
+  justify-content: space-between;
+  ;
+}
+
+.offer__paragraph {
+  margin: 0;
+}
+
+.offer__link {
+  text-decoration: none;
+  font-size: 14px;
+  color: black;
+}
+
+
+.offer__wrap_3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.offer__card {
+  width: 136px;
+  height: 191px;
+  background-color: gray;
+  border-radius: 12px;
+  margin-top: 16px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.offer__image {
+  margin-top: 12px;
+}
+
+.offer__text {
+  margin: 12px;
+  font-size: 14px;
+}
+
+.offer__cashback {
+  margin: auto;
+  width: 120px;
+  height: 22px;
+  background-color: aqua;
+  border-radius: 11px;;
+}

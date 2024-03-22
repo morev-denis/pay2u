@@ -1,6 +1,7 @@
 .div-0 {
   margin-top: 40px;
   margin-left: 18px;
+  margin-bottom: 28px;
 }
 
 .container {
@@ -19,7 +20,7 @@
   margin-right: 8px;
   width: 109px;
   height: 124px;
-  background-color: SlateGray;
+  border: solid;
   border-radius: 12px;
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
