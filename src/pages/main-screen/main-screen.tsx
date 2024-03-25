@@ -1,13 +1,11 @@
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
-import Header from "../../components/header/header";
 import Search from "../../components/search/search";
-import Bell from "../../components/bell/bell";
 import Card from "../../components/card/card";
 import Subscription from "../../components/subsciption/subscription";
 import Offer from "../../components/offer/offer";
-import Tab from '../../components/tab/tab';
+import Tab from "../../components/tab/tab";
 
 import pic1 from "../../images/pic1.png";
 import pic2 from "../../images/pic2.png";
@@ -37,11 +35,7 @@ const responsive = {
 const MainScreen = () => {
   return (
     <>
-      <Header />
-      <div className="div">
-        <Search />
-        <Bell />
-      </div>
+      <Search />
       <Carousel responsive={responsive} infinite={true} className="carousel">
         <img src={pic1} alt="" className="pic"></img>
         <img src={pic2} alt="" className="pic"></img>

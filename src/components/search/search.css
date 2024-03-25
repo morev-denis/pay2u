@@ -1,12 +1,42 @@
-.search {
+.search__wrap {
+  display: flex;
+  width: 375px;
+  height: 42px;
+  margin-top: 22px;
+}
+
+.search__link {
+  display: flex;
+}
+
+.search__back {
+  width: 18px;
+  margin-left: 9px;
+  margin-right: 5px;
+}
+
+.search__form {
+  display: flex;
+  align-items: center;
+}
+
+.search__input {
   margin-left: 16px;
-  margin-right: 44px;
+  margin-right: 9px;
   border: none;
-  padding: 5px 5px 5px 40px;
+  padding: 8px 5px 8px 40px;
   border-radius: 18px;
   width: 259px;
   height: 20px;
-  background: url(../../images/magnifier.svg) no-repeat 12px 1px;
-  background-size: auto 80%;
+  background: url(../../images/magnifier.svg) no-repeat 10px 10px;
+  background-size: auto 40%;
   background-color: #EBEBEB;
+}
+
+.search__link_2 {
+  display: flex;
+}
+
+.search__bell {
+  width: 18px;
 }
