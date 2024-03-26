@@ -1,5 +1,4 @@
-.wrap {
-  display: flex;
+.subscription {
   width: 375px;
   height: 182px;
   background-image: url('../../images/subscription.png');
@@ -11,8 +10,8 @@
 }
 
 .subscription_text {
-  margin-top: 12px;
-  margin-left: 16px;
+  padding-top: 12px;
+  padding-left: 16px;
 
 }
 
